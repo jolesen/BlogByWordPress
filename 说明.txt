@@ -1,0 +1,1 @@
+已经转移到阿里云的服务器上，在阿里云服务器上，安装与使用LNMP，在localhost/phpmyadmin上把数据库导出sql文件，打开阿里云服务器上的phpmyadmin，创建一个新的数据库，将导出的sql文件导入进去即可。
